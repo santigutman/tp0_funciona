@@ -1,0 +1,25 @@
+[INFO] 19:00:19:642 Servidor/(6019:6019): Servidor listo para recibir al cliente
+[DEBUG] 19:00:19:814 Servidor/(6019:6019): Servidor listo para recibir al cliente
+[INFO] 19:00:49:078 Servidor/(6019:6019): Se conecto un cliente
+[INFO] 19:00:49:083 Servidor/(6019:6019): Me llego el mensaje Hola servidor soy el cliente
+[INFO] 19:00:58:299 Servidor/(6019:6019): Me llegaron los siguientes valores:
+
+[INFO] 19:00:58:300 Servidor/(6019:6019): pene
+[INFO] 19:00:58:302 Servidor/(6019:6019): 2
+[INFO] 19:00:58:304 Servidor/(6019:6019): 3
+[INFO] 19:00:58:304 Servidor/(6019:6019): 4
+[INFO] 19:00:58:310 Servidor/(6019:6019): 
+[ERROR] 19:00:58:366 Servidor/(6019:6019): el cliente se desconecto. Terminando servidor
+[INFO] 20:42:26:863 Servidor/(6934:6934): Servidor listo para recibir al cliente
+[DEBUG] 20:42:27:022 Servidor/(6934:6934): Servidor listo para recibir al cliente
+[INFO] 20:42:51:697 Servidor/(6934:6934): Se conecto un cliente
+[INFO] 20:42:51:705 Servidor/(6934:6934): Me llego el mensaje Hola servidor soy el cliente
+[INFO] 20:43:05:499 Servidor/(6934:6934): Me llegaron los siguientes valores:
+
+[INFO] 20:43:05:508 Servidor/(6934:6934): 1
+[INFO] 20:43:05:513 Servidor/(6934:6934): 2
+[INFO] 20:43:05:516 Servidor/(6934:6934): 3
+[INFO] 20:43:05:518 Servidor/(6934:6934): pene
+[INFO] 20:43:05:524 Servidor/(6934:6934): negro
+[INFO] 20:43:05:527 Servidor/(6934:6934): 
+[ERROR] 20:43:05:550 Servidor/(6934:6934): el cliente se desconecto. Terminando servidor

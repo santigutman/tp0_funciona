@@ -1,0 +1,81 @@
+[INFO] 22:26:30:078 CLIENTE.TP0/(5160:5160): Hola! Soy un log
+[INFO] 22:26:30:152 CLIENTE.TP0/(5160:5160): VALOR: valor
+[INFO] 22:29:08:595 CLIENTE.TP0/(5628:5628): Hola! Soy un log
+[INFO] 22:29:08:661 CLIENTE.TP0/(5628:5628): VALOR: valor
+[INFO] 22:29:14:399 CLIENTE.TP0/(5628:5628): Log desde consola: sape
+[INFO] 22:33:20:571 CLIENTE.TP0/(6232:6232): Hola! Soy un log
+[INFO] 22:33:20:652 CLIENTE.TP0/(6232:6232): VALOR: valor
+[INFO] 22:33:26:304 CLIENTE.TP0/(6232:6232): Log desde consola: prueba1
+[INFO] 22:33:28:455 CLIENTE.TP0/(6232:6232): Log desde consola: prueba2
+[INFO] 22:33:30:736 CLIENTE.TP0/(6232:6232): Log desde consola: prueba3
+[INFO] 22:33:32:471 CLIENTE.TP0/(6232:6232): Log desde consola: (null)
+[INFO] 22:33:57:681 CLIENTE.TP0/(6384:6384): Hola! Soy un log
+[INFO] 22:33:57:777 CLIENTE.TP0/(6384:6384): VALOR: valor
+[INFO] 22:34:00:966 CLIENTE.TP0/(6384:6384): Log desde consola: 
+[INFO] 22:34:06:584 CLIENTE.TP0/(6384:6384): Log desde consola: 
+[INFO] 22:34:07:270 CLIENTE.TP0/(6384:6384): Log desde consola: 
+[INFO] 22:34:07:585 CLIENTE.TP0/(6384:6384): Log desde consola: 
+[INFO] 22:34:07:626 CLIENTE.TP0/(6384:6384): Log desde consola: 
+[INFO] 22:34:07:775 CLIENTE.TP0/(6384:6384): Log desde consola: 
+[INFO] 22:34:09:241 CLIENTE.TP0/(6384:6384): Log desde consola: (null)
+[INFO] 22:34:30:330 CLIENTE.TP0/(6560:6560): Hola! Soy un log
+[INFO] 22:34:30:436 CLIENTE.TP0/(6560:6560): VALOR: valor
+[INFO] 22:34:31:948 CLIENTE.TP0/(6560:6560): Log desde consola: 
+[INFO] 22:34:37:457 CLIENTE.TP0/(6560:6560): Log desde consola: a
+[INFO] 22:34:38:167 CLIENTE.TP0/(6560:6560): Log desde consola: 
+[INFO] 22:34:40:492 CLIENTE.TP0/(6560:6560): Log desde consola: (null)
+[INFO] 22:34:42:710 CLIENTE.TP0/(6560:6560): Log desde consola: (null)
+[INFO] 22:34:43:550 CLIENTE.TP0/(6560:6560): Log desde consola: (null)
+[INFO] 22:34:53:990 CLIENTE.TP0/(6560:6560): Log desde consola: (null)
+[INFO] 22:35:52:955 CLIENTE.TP0/(6984:6984): Hola! Soy un log
+[INFO] 22:35:53:033 CLIENTE.TP0/(6984:6984): VALOR: valor
+[INFO] 22:35:53:911 CLIENTE.TP0/(6984:6984): Log desde consola: 
+[INFO] 22:37:21:257 CLIENTE.TP0/(7143:7143): Hola! Soy un log
+[INFO] 22:37:21:329 CLIENTE.TP0/(7143:7143): VALOR: valor
+[INFO] 22:37:22:655 CLIENTE.TP0/(7143:7143): Log desde consola: 1
+[INFO] 22:37:23:060 CLIENTE.TP0/(7143:7143): Log desde consola: 2
+[INFO] 22:37:23:453 CLIENTE.TP0/(7143:7143): Log desde consola: 3
+[INFO] 22:37:23:981 CLIENTE.TP0/(7143:7143): Log desde consola: 
+[INFO] 22:37:24:715 CLIENTE.TP0/(7143:7143): Log desde consola: 
+[INFO] 22:37:32:305 CLIENTE.TP0/(7143:7143): Log desde consola: (null)
+[INFO] 22:37:44:960 CLIENTE.TP0/(7368:7368): Hola! Soy un log
+[INFO] 22:37:45:055 CLIENTE.TP0/(7368:7368): VALOR: valor
+[INFO] 22:37:46:266 CLIENTE.TP0/(7368:7368): Log desde consola: a
+[INFO] 22:37:46:698 CLIENTE.TP0/(7368:7368): Log desde consola: 
+[INFO] 22:42:20:035 CLIENTE.TP0/(7704:7704): Hola! Soy un log
+[INFO] 22:42:20:091 CLIENTE.TP0/(7704:7704): VALOR: valor
+[INFO] 22:42:22:207 CLIENTE.TP0/(7704:7704): Log desde consola: 1
+[INFO] 22:42:22:495 CLIENTE.TP0/(7704:7704): Log desde consola: 2
+[INFO] 22:42:22:839 CLIENTE.TP0/(7704:7704): Log desde consola: 3
+[INFO] 22:42:23:616 CLIENTE.TP0/(7704:7704): Log desde consola: 
+[INFO] 22:43:33:810 CLIENTE.TP0/(7883:7883): Hola! Soy un log
+[INFO] 22:43:33:882 CLIENTE.TP0/(7883:7883): VALOR: valor
+[INFO] 22:43:35:072 CLIENTE.TP0/(7883:7883): Log desde consola: 2
+[INFO] 22:43:35:442 CLIENTE.TP0/(7883:7883): Log desde consola: 3
+[INFO] 22:43:36:516 CLIENTE.TP0/(7883:7883): Log desde consola: 4
+[INFO] 22:43:36:893 CLIENTE.TP0/(7883:7883): Log desde consola: 5
+[INFO] 22:43:37:229 CLIENTE.TP0/(7883:7883): Log desde consola: 
+[INFO] 22:43:47:880 CLIENTE.TP0/(7988:7988): Hola! Soy un log
+[INFO] 22:43:47:947 CLIENTE.TP0/(7988:7988): VALOR: valor
+[INFO] 22:43:50:812 CLIENTE.TP0/(7988:7988): Log desde consola: buen dia
+[INFO] 22:43:52:207 CLIENTE.TP0/(7988:7988): Log desde consola: 1
+[INFO] 22:43:52:493 CLIENTE.TP0/(7988:7988): Log desde consola: 2
+[INFO] 22:43:52:757 CLIENTE.TP0/(7988:7988): Log desde consola: 3
+[INFO] 22:43:55:067 CLIENTE.TP0/(7988:7988): Log desde consola: 
+[INFO] 18:50:45:140 CLIENTE.TP0/(4047:4047): Hola! Soy un log
+[INFO] 18:50:45:197 CLIENTE.TP0/(4047:4047): VALOR: valor
+[INFO] 18:50:53:993 CLIENTE.TP0/(4047:4047): Log desde consola: ema trolo
+[INFO] 18:51:00:331 CLIENTE.TP0/(4047:4047): Log desde consola: me gusta la pija
+[INFO] 18:51:01:466 CLIENTE.TP0/(4047:4047): Log desde consola: 
+[INFO] 19:00:35:353 CLIENTE.TP0/(6138:6138): Hola! Soy un log
+[INFO] 19:00:35:414 CLIENTE.TP0/(6138:6138): LEI LA IP 127.0.0.1 y el puerto 4444
+[INFO] 19:00:42:052 CLIENTE.TP0/(6138:6138): Log desde consola: pornga de oso
+[INFO] 19:00:43:755 CLIENTE.TP0/(6138:6138): Log desde consola: ema negro
+[INFO] 19:00:44:991 CLIENTE.TP0/(6138:6138): Log desde consola: ema puto
+[INFO] 19:00:48:727 CLIENTE.TP0/(6138:6138): Log desde consola: novia de ema
+[INFO] 19:00:49:067 CLIENTE.TP0/(6138:6138): Log desde consola: 
+[INFO] 20:42:38:608 CLIENTE.TP0/(7074:7074): Hola! Soy un log
+[INFO] 20:42:38:667 CLIENTE.TP0/(7074:7074): LEI LA IP 127.0.0.1 y el puerto 4444
+[INFO] 20:42:48:434 CLIENTE.TP0/(7074:7074): Log desde consola: lauty negro
+[INFO] 20:42:50:888 CLIENTE.TP0/(7074:7074): Log desde consola: ema pelado
+[INFO] 20:42:51:693 CLIENTE.TP0/(7074:7074): Log desde consola: 
